@@ -1,7 +1,7 @@
 package Project.Customers;
 
 /**
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The Customer class represent the customer with its attributes. This class provides the
  * methods to retrieve the ID, business name, address, and telephone number.
  */

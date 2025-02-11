@@ -3,7 +3,7 @@ package Project.Appliances;
 import Project.ApplianceItem.ApplianceItem;
 
 /**
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The HomeAppliance class represent the appliance element in the appliance table in the DB.
  * Includes the optional associated applianceItem class.
  * 

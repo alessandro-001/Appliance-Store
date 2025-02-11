@@ -11,7 +11,7 @@ import java.util.function.IntSupplier;
 
 /**
  * ----- ADD BY ID HANDLER -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini - 
  * AddByIdHandler handles the HTTP requests to add appliances in the DB table appliance by the ID
  * - Generate an HTML form to collect data (appliance details) and generate a random SKU at every call.
  * - Implements the HttpHandler interface.

@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 /**
  * ----- Search by ID Handler -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini 
  * This handler allows admins to search for an appliance by its ID.
  * It receive the ID from the query, interacts with the DB and renders an HTML page to display the product.
  * The handler also provides a search form for the user to enter the product ID and submit the request to the server.

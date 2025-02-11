@@ -14,7 +14,7 @@ import org.mindrot.jbcrypt.BCrypt;
 
 /**
  * ----- REGISTER USER HANDLER -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The RegisterUserHandler handles the requests for the application, it supports:
  * - Display the registration form via HTTP GET requests.
  * - Process the user registration vis HTTP POST requests.

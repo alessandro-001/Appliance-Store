@@ -16,7 +16,7 @@ import java.util.Map;
 import org.mindrot.jbcrypt.BCrypt;
 
 /**
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The LoginHandler manages HttpHandler requests for the log in functions, processes the 
  * user login, validates the credentials and redirects the user based on it role.
  */

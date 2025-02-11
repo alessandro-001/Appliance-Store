@@ -1,7 +1,7 @@
 package Project.Customers;
 
 /**
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The Address class store information for the customer addresses, stored in the address table in the DB.
  */
 public class Address {

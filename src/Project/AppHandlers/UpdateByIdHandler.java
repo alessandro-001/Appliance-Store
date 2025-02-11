@@ -12,7 +12,7 @@ import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpExchange;
 
 /**
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini 
  * UpdateByIdHandler handles HTTP requests for updating home appliances in the database by their ID.
  * Features:
  * - Displays a form to update the product details, including warranty years, brand and model.

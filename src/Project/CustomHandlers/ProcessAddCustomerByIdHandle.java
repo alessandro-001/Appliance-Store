@@ -19,7 +19,7 @@ import com.sun.net.httpserver.HttpExchange;
 
 /**
  * ----- PROCESS & DISPLAY added Customers Handler -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * Features:
  * - The ProcessAddCustomerByIdHandle read the Http post requests with the customer details;
  * - Process the data to add the new customer in the DB;

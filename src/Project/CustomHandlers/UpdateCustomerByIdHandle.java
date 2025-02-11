@@ -16,7 +16,7 @@ import com.sun.net.httpserver.HttpExchange;
 
 /**
  * ---- UPDATE CUSTOMERS -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The UpdateCustomerByIdHandle manages the updating of customer details by their ID
  * Features:
  * - Display an HTML form to update the customer details

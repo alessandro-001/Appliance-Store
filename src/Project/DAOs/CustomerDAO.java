@@ -16,7 +16,7 @@ import Project.Customers.Customer;
 /**
  * ----- CUSTOMERS DAO -----
  * 
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The DAO (Data Access Object) manages all the customer related operations in the DB
  * CRUD Features:
  * - list all customers from the customer table in the DB

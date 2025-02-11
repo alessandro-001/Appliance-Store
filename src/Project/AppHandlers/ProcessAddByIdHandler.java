@@ -16,7 +16,7 @@ import com.sun.net.httpserver.HttpExchange;
 
 /**
  * ----- Process & Display added Products Handler -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * ProcessAddByIdHandler processes the data passed from the {@link Project.AppHandlers.AddByIdHandler} form
  * and adds it associated details in the appliance table in the DB, generating a HTML response to give the user a confirmation.
  * Features:

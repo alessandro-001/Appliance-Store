@@ -4,7 +4,7 @@ import Project.Appliances.HomeAppliance;
 
 /**
  * ----- APPLIANCE ITEM CLASS -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * ApplianceItem represent the individual item with additional parameters like Warranty Years, Brand and Model, 
  * associated with the same item in the appliance table inside the DB, this class provides new methods
  * to retrieve and modify the item properties.

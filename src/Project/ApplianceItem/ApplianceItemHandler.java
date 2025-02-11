@@ -12,7 +12,7 @@ import java.sql.SQLException;
 
 /**
  * ----- ApplianceItem Handler -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The ApplianceItemHandler fetch product informations from the DB based on the inserted ID and 
  * utilises the {@link HomeApplianceDAO} and displays the result in a HTML response.
  * Usage: 

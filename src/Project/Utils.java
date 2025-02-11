@@ -7,7 +7,7 @@ import com.sun.net.httpserver.HttpExchange;
 
 /**
  * ---- UTILS ----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * Simple utility class containing helper methods to parse data
  */
 

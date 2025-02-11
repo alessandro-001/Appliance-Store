@@ -20,7 +20,7 @@ import java.io.IOException;
 
 /**
  * ----- DISPLAY / LIST ALL PRODUCTS HANDLER -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * Handles all the HTTP requests to display the products in the appliance table in the DB, it includes:
  * - Filtering by Category;
  * - Search product by ID;

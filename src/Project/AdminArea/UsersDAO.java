@@ -11,7 +11,7 @@ import org.mindrot.jbcrypt.BCrypt;
 /**
  * ----- USERS DAO CLASS -----
  * 
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini - 
  * Data Access Object (DAO) class used to interacting with the database in the user table.
  * It provides the methods to retrieve, add and check the user informations.
  */

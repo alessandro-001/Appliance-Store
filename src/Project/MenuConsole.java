@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  * ---- MENU CONSOLE ----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The MenuConsole class provides an interactive menu in the console interface 
  * where is possible to manage the home appliances and customers tables directly. 
  * The menu allows the admin to list, search, add, update, and delete products or customers.

@@ -18,7 +18,7 @@ import java.io.IOException;
 
 /**
  * ----- Root Handler -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * the RootHandler manages http requests for the root paths, generates the homepage HTML used mainly for admins,
  * and manage the user roles and cookies for session handling
  */

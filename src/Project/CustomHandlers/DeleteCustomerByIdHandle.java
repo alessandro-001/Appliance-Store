@@ -11,7 +11,7 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 
 /**
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The DeleteCustomerByIdHandle allow the admin to input the customer id in a form field
  * to delete it from the customer able in the database, providing a feedback on successful
  * deletion or not.

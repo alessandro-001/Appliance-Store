@@ -12,7 +12,7 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
 /**
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini 
  * The CheckoutHandler calculated the final price of the items stored in the basket, it also provides
  * the option to clear the basket and start over. The checkout functionality is a mock for demonstration 
  * purposes only, hence it does not implements the payment logic.

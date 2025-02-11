@@ -2,7 +2,7 @@ package Project.Basket;
 
 /**
  * ----- BASKET -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The Basket class represent the singular item information stored in the basket.
  */
 public class Basket {

@@ -14,7 +14,7 @@ import com.sun.net.httpserver.HttpExchange;
 
 /**
  * ----- Process Deleted Product Handler -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * ProcessDeleteByIdHandler handles the process to delete an appliance from the DB by its ID
  * Implements HttpHandler to handle and validate POST requests, delete the product and respond with a confirmation page.
  * Features:

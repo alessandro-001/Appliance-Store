@@ -2,7 +2,7 @@ package Project.AdminArea;
 
 /**
  * ----- USERS CLASS -----
- * @author Alessandro Frondini 14501682
+ * @author Alessandro Frondini 
  * This class represent the User in the system, it comprises the username, password and role.
  */
 public class Users {

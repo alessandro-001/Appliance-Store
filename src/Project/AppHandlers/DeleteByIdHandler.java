@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  * ----- DELETE BY ID HANDLER -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * DeleteByIdHandler handles the HTTP requests to remove a product from the DB table appliance by its ID
  * It provides aHTML form to enter the product ID to remove.
  * - Bootstrap CSS for styling the HTML response.

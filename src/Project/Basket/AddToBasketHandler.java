@@ -23,7 +23,7 @@ import Project.Basket.*;
 import java.util.Map;
 
 /**
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The AddToBasketHandler handles the HTTP POST requests to add an item in the shopping basket.
  * Is connected to an SQLite DB to get the appliance by it SKU and inserts it into the basket table
  * before being processed or deleted by the user later in the application.

@@ -17,7 +17,7 @@ import java.util.ArrayList;
 
 /**
  * ----- Search by Customer ID Handler -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The SearchByCustomerIdHandle handles the HTTP requests for searching a customer by its ID
  * Features:
  * - Process HTTP GET requests

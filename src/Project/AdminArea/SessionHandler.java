@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  * ----- SESSION HANDLER -----
- * @author Alessandro Frondini 14501682
+ * @author Alessandro Frondini 
  * SessionHandler handles the user sessions through the application. It provides methods to 
  * create, get, update and destroy
  */

@@ -14,7 +14,7 @@ import Project.DAOs.CustomerDAO;
 
 /**
  * ----- Process & Display added Customers Handler -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The ProcessDeleteCustomerByIdHandle process the http requests to delete a customer from the DB
  * Features:
  * - Process HTTP requests

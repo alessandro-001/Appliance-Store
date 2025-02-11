@@ -12,7 +12,7 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
 /**
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * the BasketHandler class is responsible to handle the basket functionality. 
  * Features:
  * - Connect to SQLite DB;

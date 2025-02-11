@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  * ----- HOME APPLIANCE DAO -----
- * @author Alessandro Frondini - 14501682
+ * @author Alessandro Frondini
  * The DAO (Data Access Object) manages all the appliances related operations in the DB
  * CRUD Features:
  * - list all products in the DB
